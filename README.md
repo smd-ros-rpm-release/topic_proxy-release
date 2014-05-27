@@ -1,3 +1,24 @@
+## topic_proxy (hydro) - 0.1.0-1
+
+The packages in the `topic_proxy` repository were released into the `hydro` distro by running `/usr/bin/bloom-release topic_proxy -t hydro -r hydro` on `Tue, 27 May 2014 13:01:20 -0000`
+
+These packages were released:
+- `blob`
+- `topic_proxy`
+
+Version of package(s) in repository `topic_proxy`:
+- rosdistro version: `0.1.0-0`
+- old version: `0.1.0-0`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## topic_proxy - 0.1.0-0
 
 User `meyer@fliegtfix` released the packages in the `topic_proxy` repository by running `/usr/bin/bloom-release --track hydro --ros-distro hydro topic_proxy -n` on `Thu, 08 Aug 2013 17:26:22 -0000`

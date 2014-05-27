@@ -1,0 +1,12 @@
+Source: ros-hydro-blob
+Section: misc
+Priority: extra
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Build-Depends: debhelper (>= 9.0.0), libbz2-dev, ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-roscpp
+Homepage: http://github.com/tu-darmstadt-ros-pkg/blob_tools
+Standards-Version: 3.9.2
+
+Package: ros-hydro-blob
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libbz2-dev, ros-hydro-message-runtime, ros-hydro-roscpp
+Description: blob provides a new message type blob/Blob for binary data.

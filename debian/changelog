@@ -1,0 +1,14 @@
+ros-indigo-topic-proxy (0.1.1-0trusty) trusty; urgency=high
+
+  * Fixed missing return value in Client::init()
+  * Contributors: Johannes Meyer
+
+ -- Johannes Meyer <meyer@fsr.tu-darmstadt.de>  Wed, 27 Aug 2014 22:00:00 -0000
+
+ros-indigo-topic-proxy (0.1.0-0trusty) trusty; urgency=high
+
+  * initial version
+
+ -- Johannes Meyer <meyer@fsr.tu-darmstadt.de>  Tue, 06 Aug 2013 22:00:00 -0000
+
+

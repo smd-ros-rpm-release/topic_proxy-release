@@ -1,3 +1,26 @@
+## topic_proxy (indigo) - 0.1.1-0
+
+The packages in the `topic_proxy` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo topic_proxy --new` on `Thu, 28 Aug 2014 19:50:44 -0000`
+
+These packages were released:
+- `blob`
+- `topic_proxy`
+
+Version of package(s) in repository `topic_proxy`:
+- upstream repository: https://github.com/tu-darmstadt-ros-pkg/topic_proxy.git
+- release repository: https://github.com/tu-darmstadt-ros-pkg-gbp/topic_proxy-release.git
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## topic_proxy (hydro) - 0.1.0-1
 
 The packages in the `topic_proxy` repository were released into the `hydro` distro by running `/usr/bin/bloom-release topic_proxy -t hydro -r hydro` on `Tue, 27 May 2014 13:01:20 -0000`
